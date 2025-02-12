@@ -2,10 +2,11 @@
 layout: default
 modal-id: 1
 date: 2025-02-12
-img: moonlit_alchemy.gif
+img: moonlit_alchemy.png
 alt: Moonlit Alchemy Player Movement Showcase
 project-date: In Development
-client: Personal Project
-category: Unreal Engine 5 / Technical Art
+title: Moonlit Alchemy
+client: Personal Project | Unreal Engine 5
+category: Solo Game Developer | Technical Artist
 description: Moonlit Alchemy is a  visually enchanting 2.5D RPG where glowing potions, dynamic lighting, and atmospheric effects bring alchemy to life. Gather rare ingredients, master potion crafting, and create the perfect brews under the moonlit sky. This project is focused on showcasing my technical art skills, including **shader development, lighting, post-processing, and performance optimization**, and gameplay programming skills in Unreal Engine 5.
 ---
