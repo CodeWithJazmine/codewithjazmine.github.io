@@ -25,24 +25,24 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: FAEDCD
+  primary-rgb: "250, 237, 205" #"128,179,255"
+  secondary: E9EDC9
+  secondary-dark: CCD5AE
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jazmine Chargualaf
   location: Location
   social: Around the Web
-  credits: Credits
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/jazminechargualaf
   - title: youtube
-    url: https://youtube.com/@codewithjaz?si=aLwNMT_UmL8A5L7D
+    url: https://www.youtube.com/@codewithjaz
   - title: github
     url: http://github.com/CodeWithJazmine
 
@@ -51,7 +51,7 @@ address:
   - line: Las Vegas, NV
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
