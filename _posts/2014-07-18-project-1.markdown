@@ -9,4 +9,5 @@ title: Moonlit Alchemy
 client: Personal Project | Unreal Engine 5
 category: Solo Game Developer & Technical Artist
 description: Moonlit Alchemy is a potion-making RPG where players manage a potion shop, gather ingredients, craft unique potions, and explore a vibrant, 2.5D world filled with adventure and mystery. Players balance shopkeeping with adventuring, ensuring they have stock for customers while using potions for survival and progress. This project is focused on showcasing my technical art skills, including shader development, lighting, post-processing, and performance optimization, as well as my gameplay programming skills in Unreal Engine 5.
+devlog_url: "/devlogs/moonlit-alchemy/
 ---
