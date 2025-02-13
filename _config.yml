@@ -64,9 +64,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-collections:
-  devlogs:
-    output: true
-    permalink: /devlogs/:path/
-
