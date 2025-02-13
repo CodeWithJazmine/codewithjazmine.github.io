@@ -3,8 +3,8 @@ layout: default
 modal-id: 4
 title: Echoes of Creation
 date: 2025-02-12
-img: game.png
-alt: image-alt
+img: eoc.png
+alt: Echoes of Creation's in game shoreline
 project-date: January 2025
 client: University Team Project | Unreal Engine 5
 category: Gameplay Programmer, Systems Architect, & Audio Designer

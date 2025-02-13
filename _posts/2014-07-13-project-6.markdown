@@ -3,8 +3,8 @@ layout: default
 modal-id: 6
 title: Lab Rat
 date: 2025-02-12
-img: submarine.png
-alt: image-alt
+img: labrat.png
+alt: Lab Rat Start Screen
 project-date: July 2023 - August 2023
 client: University Team Project | Unity
 category: UI Programmer & Lighting and Sound Designer

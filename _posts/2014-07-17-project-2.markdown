@@ -3,8 +3,8 @@ layout: default
 modal-id: 2
 title: Neon Runner
 date: 2025-02-12
-img: cake.png
-alt: image-alt
+img: neon_runner.png
+alt: Neon Runner Game Image
 project-date: October 2024
 client: Personal Project | Unity
 category: Solo Game Developer & Technical Artist
@@ -14,4 +14,5 @@ description: <i>Neon Runner</i> is a Unity-based <b>solo developed project</b> f
 devlog-url: https://jazminechargualaf.itch.io/neon-exodus-prototype/devlog/825804/neon-exodus-prototype-devtober-postmortem
 itch-url: https://jazminechargualaf.itch.io/neon-exodus-prototype
 github-url: https://github.com/CodeWithJazmine/Neon-Runner
+video-url: https://www.youtube.com/embed/fH2pfI-ZbqQ
 ---

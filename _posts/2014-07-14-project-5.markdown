@@ -3,8 +3,8 @@ layout: default
 modal-id: 5
 title: Lil Bonk’s Mischief Mayhem!
 date: 2025-02-12
-img: safe.png
-alt: image-alt
+img: lilbonks.png
+alt: Lil Bonk's Michief Mayham Start Screen
 project-date: January 2025 - Present (In Development)
 client: Ebonova Team | Unity
 category: UI Programmer & Systems Programmer

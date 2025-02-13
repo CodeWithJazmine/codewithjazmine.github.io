@@ -3,8 +3,8 @@ layout: default
 modal-id: 3
 title: Journey of the Cowboy King
 date: 2025-02-12
-img: circus.png
-alt: image-alt
+img: jotck.png
+alt: Journey of the Cowboy  King Render
 project-date: November 2024
 client: University Team Project | Vulkan / ECS / Custom Engine
 category: UI Programmer & Systems Programmer
