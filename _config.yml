@@ -68,5 +68,5 @@ defaults:
 collections:
   devlogs:
     output: true
-    permalink: /devlogs/devlogs-list/
+    permalink: /devlogs/:path/
 
