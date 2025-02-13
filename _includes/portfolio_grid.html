@@ -13,8 +13,11 @@
         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
+              <h3 class="hover-title">{{ post.title }}</h3>
               <i class="fa fa-search-plus fa-3x"></i>
+              <p class="hover-subtitle">Click for details</p>
             </div>
+            
           </div>
           <img src="img/portfolio/{{ post.img | replace: '.gif', '.png'}}" class="img-responsive" alt="{{ post.alt }}">
         </a>

@@ -36,7 +36,32 @@
               </li>
               {% endif %}
             </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+
+            <!-- Devlog Button -->
+            {% if post.devlog-url %}
+            <div class="text-center">
+              <a href="{{ post.devlog-url }}" class="btn btn-primary" target="_blank">
+                <i class="fa fa-book"></i> View Devlogs
+              </a>
+            </div>
+            {% endif %}
+
+            <!-- GitHub and Itch.io Buttons -->
+            <div class="text-center" style="margin-top: 15px;">
+                {% if post.github-url %}
+                <a href="{{ post.github-url }}" class="btn btn-dark" target="_blank" style="margin-right: 10px;">
+                  <i class="fa fa-github-square" aria-hidden="true"></i>GitHub Repository
+                </a>
+                {% endif %}
+                {% if post.itch-url %}
+                <a href="{{ post.itch-url }}" class="btn btn-danger" target="_blank">
+                  <i class="fa fa-gamepad"></i> Play on Itch.io
+                </a>
+                {% endif %}
+            </div>
+
+
+            <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 10px;"><i class="fa fa-times"></i>
               Close</button>
           </div>
         </div>

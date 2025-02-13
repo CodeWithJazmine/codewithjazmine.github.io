@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+title: Lil Bonk’s Mischief Mayhem!
+date: 2025-02-12
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2025 - Present (In Development)
+client: Ebonova Team | Unity
+category: UI Programmer & Systems Programmer
+description: <i>Lil Bonk’s Mischief Mayhem!</i> is a <b>Unity 3D game jam project</b> currently in development.
+  My contributions include <b>UI programming, game management systems, and score mechanics</b>.
+  Features include the <b>Chaos Meter, Score Multiplier, and Bonk Chain Reaction mechanics</b> 
+  for rewarding high scores.
+github-url: https://github.com/CodeWithJazmine/Lil-Bonk-s-Mischief-Mayhem
+itch-url: https://jaidon82.itch.io/lil-bonks-mischief-mayhem
 ---

@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+title: Lab Rat
+date: 2025-02-12
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2023 - August 2023
+client: University Team Project | Unity
+category: UI Programmer & Lighting and Sound Designer
+description: <b>Lab Rat</b> is a <b>university project</b> developed in <b>Unity 3D</b> as part of Team Regal Krakens.
+  My primary contributions were in <b>UI programming, lighting, and sound design</b>.
+  I worked on <b>interactive UI elements</b>, implemented <b>dynamic lighting</b> to enhance atmosphere, 
+  and designed <b>3D sound effects</b> for an immersive player experience.
+github-url: https://github.com/CodeWithJazmine/Lab-Rat
+itch-url: https://cornofthedog.itch.io/lab-rat
 ---

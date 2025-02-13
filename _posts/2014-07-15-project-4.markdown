@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+title: Echoes of Creation
+date: 2025-02-12
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2025
+client: University Team Project | Unreal Engine 5
+category: Gameplay Programmer, Systems Architect, & Audio Designer
+description: Echoes of Creation is a <b>team-developed</b> university project where I worked on 
+  <b>gameplay programming, system architecture, and audio design</b>.
+  I helped structure the <b>core game loop</b>, implemented <b>dynamic audio systems</b>, 
+  and developed <b>scalable gameplay mechanics</b>.
+devlog-url: https://frogboots.itch.io/echoes-of-creation/devlog/870308/devlog-1-jazmine-chargualaf-creating-an-inventory-system
+itch-url: https://frogboots.itch.io/echoes-of-creation
 ---

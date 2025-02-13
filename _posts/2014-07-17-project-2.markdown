@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+title: Neon Runner
+date: 2025-02-12
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2024
+client: Personal Project | Unity
+category: Solo Game Developer & Technical Artist
+description: <i>Neon Runner</i> is a Unity-based <b>solo developed project</b> for a one-month game development challenge. 
+  This project focuses on <b>shader development, AI programming,</b> and <b>post-processing</b>. 
+  Features include a <b>custom fading shader</b>, a silhouette effect using <b>URP</b>, and directional <b>3D audio</b>.
+devlog-url: https://jazminechargualaf.itch.io/neon-exodus-prototype/devlog/825804/neon-exodus-prototype-devtober-postmortem
+itch-url: https://jazminechargualaf.itch.io/neon-exodus-prototype
+github-url: https://github.com/CodeWithJazmine/Neon-Runner
 ---
