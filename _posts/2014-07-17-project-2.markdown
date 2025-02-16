@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 2
-title: Neon Runner
+title: Neon Exodus
 date: 2025-02-12
 img: neon_runner.png
-alt: Neon Runner Game Image
+alt: Neon Exodus Game Image
 project-date: October 2024
 client: Personal Project | Unity
 category: Solo Game Developer & Technical Artist
-description: <i>Neon Runner</i> is a Unity-based <b>solo developed project</b> for a one-month game development challenge. 
+description: <i>Neon Exodus</i> is a Unity-based <b>solo developed project</b> for a one-month game development challenge. 
   This project focuses on <b>shader development, AI programming,</b> and <b>post-processing</b>. 
   Features include a <b>custom fading shader</b>, a silhouette effect using <b>URP</b>, and directional <b>3D audio</b>.
 devlog-url: https://jazminechargualaf.itch.io/neon-exodus-prototype/devlog/825804/neon-exodus-prototype-devtober-postmortem
