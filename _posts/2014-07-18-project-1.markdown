@@ -10,5 +10,5 @@ client: Personal Project | Unreal Engine 5
 category: Solo Game Developer & Technical Artist
 description: <i>Moonlit Alchemy</i> is a <b>potion-making RPG</b> where players manage a potion shop, gather ingredients, craft unique potions, and explore a vibrant, 2.5D world filled with adventure and mystery. Players balance shopkeeping with adventuring, ensuring they have stock for customers while using potions for survival and progress. This project is focused on showcasing my technical art skills, including <b>shader development, lighting, post-processing,</b> and <b>performance optimization</b>, as well as my <b>gameplay programming</b> skills in <b>Unreal Engine 5</b>.
 devlog-url:
-itch-url: 
+itch-url: https://jazminechargualaf.itch.io/moonlit-alchemy
 ---
